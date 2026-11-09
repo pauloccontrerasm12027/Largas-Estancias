@@ -36,6 +36,8 @@ st.markdown("""
 st.title("🏥 Gestión de Propuestas: Largas Estancias Hospitalarias")
 st.caption("Visualizador institucional y seguimiento clínico-administrativo.")
 
+st.image("WhatsApp Image 2026-11-09 at 4.56.20 PM.jpeg", caption="Registro Hospitalario", use_container_width=True)
+
 # Galería de imágenes temáticas hospitalarias
 col_img1, col_img2 = st.columns(2)
 with col_img1:
